@@ -80,5 +80,11 @@ footer {
     background-color: #ccc;
     padding: 20px;
     text-align: center;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+
 }
 
