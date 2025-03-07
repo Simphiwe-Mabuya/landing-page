@@ -76,3 +76,9 @@ button:hover {
     background-color: #666;
 }
 
+footer {
+    background-color: #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
