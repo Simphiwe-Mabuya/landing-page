@@ -38,6 +38,11 @@ nav a {
     text-decoration: none;
 }
 
+.pricing-table {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
 
 footer {
     background-color: #ccc;
