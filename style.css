@@ -44,6 +44,16 @@ nav a {
     flex-wrap: wrap;
 }
 
+.plan {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 30%;
+    max-width: 300px;
+    transition: all 0.3s ease-in-out;
+}
+
 footer {
     background-color: #ccc;
     padding: 20px;
