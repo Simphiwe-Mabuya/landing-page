@@ -54,6 +54,18 @@ nav a {
     transition: all 0.3s ease-in-out;
 }
 
+@media (max-width: 1000px) {
+    .plan {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 60%;
+    max-width: 300px;
+    transition: all 0.3s ease-in-out;
+}
+}
+
 .plan:hover {
     transform: scale(1.1);
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
