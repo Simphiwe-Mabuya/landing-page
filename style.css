@@ -67,6 +67,11 @@ h2,h3 {
     margin: 0;
 }
 
+ul {
+    list-style: none;
+    padding: 0;
+}
+
 footer {
     background-color: #ccc;
     padding: 20px;
